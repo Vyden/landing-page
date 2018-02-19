@@ -1,0 +1,53 @@
+﻿body {
+
+}
+
+
+
+.mh1 div {
+    height: 6vh;
+}
+
+.loginColumn {
+    postion: relative;
+}
+
+.registerColumn {
+    position: relative;
+}
+.loginButton {
+    font-size: 30px;
+    /*padding: 70px 10px 10px 10px;*/
+    color: #00BCD4;
+    text-decoration: none;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    top: 28%;
+
+}
+
+.registerButton {
+    font-size: 30px;
+    /*padding: 70px 10px 10px 10px;*/
+    color: #00BCD4;
+    text-decoration: none;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    top: 28%;
+
+}
+
+.mh2 div{
+    height: 40vh;
+}
+
+.loginButton:hover {
+    color: #4CAF50;
+}
+
+.registerButton:hover {
+    color: #4CAF50
+
+}

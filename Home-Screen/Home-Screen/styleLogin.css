@@ -8,3 +8,7 @@
     background-image: url(backgroundColor.svg);
     background-size: cover;
 }
+
+.mh3 div {
+    height: 40vh;
+}

@@ -5,8 +5,9 @@
 .mh1{
     height: 100vh;
     /*background-color: #00BCD4;*/;
-    background-image: url(backgroundColor.svg);
+    background-image: url(loginRegisterBackground.svg);
     background-size: cover;
+    border: none;
 }
 
 input {

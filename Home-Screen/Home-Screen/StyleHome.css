@@ -47,7 +47,7 @@ a {
     -ms-flex: 1 0 100%;
     flex: 1 0 100%;
     margin-bottom: 20px;
-    background: #f9f9f9
+    background: #f9f9f9;
 
 }
 
@@ -59,19 +59,19 @@ a {
     flex-wrap: wrap;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between
+    justify-content: space-between;
 
 }
 
 .box__title {
-    font-family: "Montserrat", sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
 .box__content {
     color: #454545;
     text-align: center;
-    padding: 20px
+    padding: 20px;
 
 }
 

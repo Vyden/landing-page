@@ -3,9 +3,26 @@
 
 .mh1 {
     height: 100vh;
-    /*background-color: #00BCD4;*/;
-    /*background-image: url(backgroundColor.svg);
-    background-size: cover*/
+}
 
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    padding-right: 10px;
+}
 
+.submitRow {
+    padding-left: 80px;
+}
+
+input{
+    font: 1em sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999
+}
+
+input:focus, textarea:focus {
+    border-color: #000
 }
